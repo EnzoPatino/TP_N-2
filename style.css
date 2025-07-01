@@ -38,3 +38,13 @@ body{
     border: 1px solid cornflowerblue;
     border-radius: 10px;
 }
+
+.card__face--front{
+    background-color: blue;
+}
+
+.card__face--back{
+    background-color: brown;
+    transform: rotateY(180deg);
+    color: blueviolet;
+}
