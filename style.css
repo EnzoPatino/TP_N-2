@@ -40,11 +40,11 @@ body{
 }
 
 .card_face-front{
-    background-color: rgb(4, 107, 6);
+    background-color: rgb(1, 88, 2);
 }
 
 .card__face-back{
-    background-color: rgba(255, 21, 21, 0.634);
+    background-color: rgb(72, 48, 0);
     transform: rotateY(180deg);
-    color: blueviolet;
+    color: rgb(3, 104, 6);
 }
