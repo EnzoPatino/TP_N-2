@@ -35,13 +35,14 @@ body{
     justify-content: center;
     align-items: center;
     font-size: 24px;
-    border: 1px solid rgb(255, 0, 102);
-    border-radius: 10px;
+    border: 3px solid rgb(72, 48, 0);
+    transition: color 0.5s;
 }
 
 .card_face-front{
     background-color: rgb(1, 88, 2);
     color: rgb(72, 48, 0);
+
 }
 
 .card__face-back{
