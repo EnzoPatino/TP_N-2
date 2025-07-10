@@ -3,9 +3,9 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(64, 77, 215);
     margin: 0;
     font-family: sans-serif;
+    background: linear-gradient(135deg, #1e3c72, #12a94e);
 }
 
 .scene{
@@ -49,4 +49,5 @@ body{
     background-color: rgb(72, 48, 0);
     transform: rotateY(180deg);
     color: rgb(3, 104, 6);
+    border: 3px dashed rgb(3, 104, 6);
 }
