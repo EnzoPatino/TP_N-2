@@ -41,6 +41,7 @@ body{
 
 .card_face-front{
     background-color: rgb(1, 88, 2);
+    color: rgb(72, 48, 0);
 }
 
 .card__face-back{
